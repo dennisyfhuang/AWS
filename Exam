@@ -1,0 +1,1666 @@
+dick@myUbuntu:~$ python /dick/PycharmProject/scrapy_example/udemy/udemy/Quiz/quiz.py
+#Please select:+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+0. /info/download/udemy/Developer/Quiz/DL_测验01_10,000 Feet Overview Review.json
+1. /info/download/udemy/Developer/Quiz/DL_测验02_Identity Access Management Quiz.json
+2. /info/download/udemy/Developer/Quiz/DL_测验03_EC2 Quiz.json
+3. /info/download/udemy/Developer/Quiz/DL_测验04_S3 Quiz.json
+4. /info/download/udemy/Developer/Quiz/DL_测验05_DynamoDB.json
+5. /info/download/udemy/Developer/Quiz/DL_测验06_SQS Quiz.json
+6. /info/download/udemy/Developer/Quiz/DL_测验07_SNS Quiz.json
+7. /info/download/udemy/Developer/Quiz/DL_测验08_SWF Quiz.json
+8. /info/download/udemy/Developer/Quiz/DL_测验09_Cloud Formation Quiz.json
+9. /info/download/udemy/Developer/Quiz/DL_测验10_Elastic Beanstalk Quiz.json
+10. /info/download/udemy/Developer/Quiz/DL_测验11_Shared Responsibility Quiz.json
+11. /info/download/udemy/Developer/Quiz/DL_测验12_VPC Quiz.json
+12. /info/download/udemy/Developer/Quiz/DL_测验13_Mega Quiz!.json
+#. Stand for all
+Enter your input:
+#
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 1 : Amazon's data warehousing service is called RedShift.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 2 : What does an AWS Region consist of?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. A console that gives you quick, global picture of your cloud computing environment.
+b. A collection of databases that can only be accessed from a specific geographic region.
+c. An independent collection of AWS computing resources in a defined geography.
+d. A distinct location within a geographic area designed to provide high availability to a specific geography.
+e. A content distribution network, which is used to distribute content to users.
+
+
+Tips:
+a. Incorrect. This describes CloudWatch.
+b. Incorrect.
+c. Correct.
+d. Incorrect. This describes Availability Zones.
+e. Incorrect. This describes CloudFront.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 3 : An AWS VPC is a component of which AWS service?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Global Infrastructure
+b. Databases Service
+c. Networking Service.
+d. Compute Service.
+
+
+Tips:
+a. Incorrect. A VPC is a Network Service provided by AWS
+b. Incorrect. A VPC is a Network Service provided by AWS
+c. Correct.
+d. Incorrect. A VPC is a Network Service provided by AWS
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 4 : Fill in the Blanks: AWS ___________________ allows organizations to do complex analysis on large volumes of data.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Big Data Processing
+b. Elasticache
+c. EC2
+d. Elastic Map Reduce
+
+
+Tips:
+a. Incorrect - The correct answer is Elastic Map Reduce.
+b. Incorrect - The correct answer is Elastic Map Reduce.
+c. Incorrect - The correct answer is Elastic Map Reduce.
+d. Correct.
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 5 : How many regions are there on the AWS platform currently?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 5
+b. 9
+c. 10
+d. 11
+e. 12
+
+
+Tips:
+a. Incorrect. The correct answer is 11.
+b. Incorrect. The correct answer is 11.
+c. Incorrect. The correct answer is 11.
+d. Correct!
+e. Incorrect. The correct answer is 11.
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 6 : Which statement best describes Availability Zones?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Content distribution network which is used to distribute content to users.
+b. A restricted area designed specifically for creating virtual private clouds.
+c. Two zones containing compute resources that are designed to automatically maintain synchronized copies of data with each other.
+d. Distinct locations from within an AWS region that are engineered to be isolated from failures.
+
+
+Tips:
+a. This describes CloudFront
+b. Services such as S3 or CloudFront do not exist within an VPC but can exist within a region.
+c. Availability Zones do not automatically sync data between them (at least in terms of EC2/EBS etc).
+d. Correct
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 7 : There are more Regions than Edge Locations.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 8 : Amazon's highly scaleable DNS service is called
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Route66
+b. DNS Direct
+c. Route53
+d. DynamoDNS
+
+
+Tips:
+a. Incorrect, the correct answer is Route53 (which is named after port 53 on which DNS resides).
+b. Incorrect, the correct answer is Route53 (which is named after port 53 on which DNS resides).
+c. Correct (this is named after the DNS port which is on port 53).
+d. Incorrect, the correct answer is Route53 (which is named after port 53 on which DNS resides).
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 9 : What service offers object based (file based) storage?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Elastic Block Store
+b. Simple Storage Service (S3)
+c. Cloud Front
+d. DynamoDB
+
+
+Tips:
+a. Incorrect, this is block based storage, not object based storage.
+b. Correct!
+c. Incorrect, this is a content delivery network (CDN)
+d. Incorrect, this is a NO SQL database.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 10 : Which statement best describes IAM?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. IAM allows you to manage users, groups and roles and their corresponding level of access to the AWS Platform.
+b. IAM allows you to manage users passwords only. AWS staff must create new users for your organisation. This is done by raising a ticket.
+c. IAM allows you to manage permissions for AWS resources only.
+d. IAM stands for Improvised Application Management and it allows you to deploy and manage applications in the AWS Cloud.
+
+
+Tips:
+a. Correct.
+b. Incorrect. IAM allows you to manage users, groups and roles.
+c. Incorrect. IAM allows you to manage users, groups and roles.
+d. Incorrect. IAM allows you to manage users, groups and roles.
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 11 : Which is NOT a feature of IAM?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Centralised control of your AWS account
+b. Integrates with existing active directory account allowing single sign on
+c. Fine-grained access control to AWS resources
+d. Allows you to setup biometric authentication, so that no passwords are required
+
+
+Tips:
+a. Incorrect. This is a feature of IAM.
+b. Incorrect. This is a feature of IAM.
+c. Incorrect. This is a feature of IAM.
+d. Correct. This is not a feature of IAM
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 12 : EC2 instances can have credentials stored on them so that the instances can access other resources (such as S3 buckets) AND AWS recommends that you do this instead of assigning roles.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 13 : What is the name of the service to allow users to use their social media account to gain temporary access to the AWS platform?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Active Directory Authentication Services
+b. Web Confederation Services
+c. Web Identity Federation
+d. Facebook Sign In Service
+
+
+Tips:
+a. Incorrect
+b. Incorrect
+c. Correct
+d. Incorrect
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 14 : What is the API call used to obtain temporary security credentials when authenticating using Web Identity Federation?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. GetRoleWithWebIdentity
+b. AssumeRoleWithWebIdentity
+c. GetRole
+d. AssumeRole
+
+
+Tips:
+a. Incorrect
+b. Correct
+c. Incorrect
+d. Incorrect
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 15 : What is the name of the API call to request temporary security credentials from the AWS platform when federating with Active Directory?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. GetSAMLRole
+b. ShowMeTheSAML
+c. AssumeRoleWithSAML
+d. CovertRoleToSAML
+
+
+Tips:
+a. Incorrect
+b. Incorrect
+c. Correct
+d. Incorrect
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 16 : When using active directory to authenticate to AWS what are the correct steps performed?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 1) The user navigates to the AWS console, 2) The user enter in their active directory single sign on credentials in to AWS, 3) The user's web browser receives a SAML assertion from AWS,  4) The user is then able to access the AWS Console.
+b. 1) The user navigates to ADFS webserver, 2) The user enter in their single sign on credentials, 3) The user's web browser receives a SAML assertion from the AD server, 4) The user's browser then posts the SAML assertion to the AWS SAML end point for SAML and the AssumeRoleWithSAML API request is used to request temporary security credentials. 5) The user is then able to access the AWS Console.
+c. 1) The user navigates to ADFS webserver, 2) The user enter in their single sign on credentials, 3) The user's web browser receives a SAML assertion from the AD server, 4) The user's browser then posts the SAML assertion to the AWS SAML end point for SAML and the GiveUserSAMLAccess API request is used to request temporary security credentials. 5) The user is then able to access the AWS Console.
+d. Federating with Active Directory is not possible with AWS.
+
+
+Tips:
+a. Incorrect.
+b. Correct!
+c. Incorrect.
+d. Incorrect.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 17 : SAML stands for Security Assertion Markup Language.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 18 : The AWS sign-in endpoint for SAML is https://signin.aws.amazon.com/saml
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 19 : When using Web Identity Federation to allow a user to access an AWS service (such as an S3 bucket) what is the correct order of steps?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 1) A user authenticates with facebook first. They are then given an ID token by facebook. An API call called AssumeRoleWithWebIdentity is then used in conjunction with the ID token. A user is then granted temporary security credentials.
+b. 1) A user logs in to the AWS platform using their facebook credentials. 2) AWS authenticate with facebook to check the credentials. 3) Temporary Security Access is granted to AWS.
+c. Users cannot use Facebook credentials to access the AWS platform.
+d. 1) A user makes the AssumeRoleWithWebIdentity API Call. 2) The user is then redirected to facebook to authenticate. 3) Once authenticated the user is given an ID token. 4) The user is then granted temporary access to the AWS platform.
+
+
+Tips:
+a. Correct
+b. Incorrect
+c. Incorrect
+d. Incorrect
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 20 : The default region for an SDK is "US-EAST-1"
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 21 : Which of the following languages is NOT supported by the AWS SDK
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Python
+b. Ruby
+c. Node.JS
+d. C++
+e. PHP
+f. Java
+
+
+Tips:
+a. Incorrect
+b. Incorrect
+c. Incorrect
+d. Correct
+e. Incorrect
+f. Incorrect
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 22 : A HTTP 4XX code means
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. There has been a server side error (such as a 404, webpage not found).
+b. There has been a client side error.
+c. There has been a redirection.
+d. The request was successful.
+
+
+Tips:
+a. Incorrect. This would be a 5XX error. Many people think of 404 errors and think this is a problem with the server. It is not, it means the link you have tried to access doesn't exist on the server. Remember this for the exam.
+b. Correct!
+c. Incorrect. This would be a 3XX error.
+d. Incorrect. This would be a 2XX code.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 23 : You have an EC2 instance which needs to find out both its private IP address and its public IP address. To do this you need to;
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Run IPCONFIG (Windows) or IFCONFIG (Linux)
+b. Retrieve the instance Metadata from http://169.254.169.254/latest/meta-data/ 
+c. Retrieve the instance Userdata from http://169.254.169.254/latest/meta-data/
+d. Use the following command; AWS EC2 displayIP
+
+
+Tips:
+a. Incorrect, this will only tell you the internal IP address
+b. Correct!
+c. Incorrect. The correct answer is to Retrieve the instance Metadata from http://169.254.169.254/latest/meta-data/ 
+d. Incorrect. The correct answer is to Retrieve the instance Metadata from http://169.254.169.254/latest/meta-data/ 
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 24 : A HTTP 3xx Code means
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. The request was successful.
+b. There has been a client side error.
+c. There has been a server side error.
+d. There has been a redirection.
+
+
+Tips:
+a. Incorrect, this would be a 2XX code.
+b. Incorrect, this would be a 4XX code.
+c. Incorrect, this would be a 5XX code.
+d. Correct!
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 25 : To retrieve instance metadata or userdata you will need to use the following IP Address;
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. http://127.0.0.1
+b. http://192.168.0.254
+c. http://10.0.0.1
+d. http://169.254.169.254
+
+
+Tips:
+a. Incorrect!
+b. Incorrect!
+c. Incorrect!
+d. Correct!
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 26 : In order to enable encryption at rest using EC2 and Elastic Block Store you need to
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Configure encryption when creating the EBS volume
+b. Configure encryption using the appropriate Operating Systems file system
+c. Configure encryption using X.509 certificates
+d. Mount the EBS volume in to S3 and then encrypt the bucket using a bucket policy. 
+
+
+Tips:
+a. Correct - http://aws.amazon.com/about-aws/whats-new/2014/05/21/Amazon-EBS-encryption-now-available/
+b. Incorrect, this used to be the case, however as of June 2014 you can now encrypt the EBS volume upon creation. http://aws.amazon.com/about-aws/whats-new/2014/05/21/Amazon-EBS-encryption-now-available/
+c. Incorrect
+d. Incorrect
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 27 : You can have multiple SSL certificates on an Elastic Load Balancer
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 28 : Which AWS service below is chargeable?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Autoscaling
+b. Elastic Beanstalk
+c. Elastic Load Balancers
+d. Cloud Formation
+
+
+Tips:
+a. Incorrect. The EC2 instances under the Autoscaling group are chargeable, but Autoscaling itself is not.
+b. Incorrect. The resources provisioned by Elastic Beanstalk are chargeable, but the service itself is free.
+c. Correct.
+d. Incorrect. The resources provisioned by Cloud Formation are chargeable, but the service itself is free.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 29 : A HTTP 200 code means;
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. The request has failed
+b. The request was successful 
+c. There has been a server side error
+d. There has been a client side error.
+
+
+Tips:
+a. Incorrect.
+b. Correct.
+c. Incorrect. This is a 5XX code.
+d. Incorrect. This is a 4XX code.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 30 : A HTTP 5XX Code means
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. There has been a server side error.
+b. There has been a client side error.
+c. There has been a redirection.
+d. The request was a success.
+
+
+Tips:
+a. Correct!
+b. Incorrect. This would be a 4XX error.
+c. Incorrect. This would be a 3XX code.
+d. Incorrect. This would be a 2XX code.
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 31 : The minimum file size allowed on S3 is 0 bytes?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Tips:
+a. 
+b. 
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 32 : If you encrypt a bucket on S3 what encryption does AWS use?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Data Encryption Standard (DES)
+b. International Data Encryption Algorithm (IDEA).
+c. Advanced Encryption Standard (AES) 128
+d. Advanced Encryption Standard (AES) 256
+
+
+Tips:
+a. Incorrect. The correct answer is Advanced Encryption Standard (AES) 256 
+b. Incorrect. The correct answer is Advanced Encryption Standard (AES) 256 
+c. Incorrect. The correct answer is Advanced Encryption Standard (AES) 256 
+d. Correct!
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 33 : You create a static hosting website in a bucket called "acloudguru" in Japan using S3. What would the new URL End Point be?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. http://www.acloudguru.s3-website-ap-northeast-1.amazonaws.com
+b. https://s3-ap-northeast-1.amazonaws.com/acloudguru/
+c. http://acloudguru.s3-website-ap-northeast-1.amazonaws.com
+d. http://acloudguru.s3-website-ap-southeast-1.amazonaws.com
+e. http://acloudguru.s3-website-ap-southeast-2.amazonaws.com
+
+
+Tips:
+a. Incorrect, there would be no "www" in the domain.
+b. Incorrect, this is a valid link to the bucket, but would not be the URL end point. Remember that an endpoint will always contain the phrase "s3-website" followed by the region name.
+c. Correct!
+d. Incorrect! This contains the wrong region! This would be based in Singapore.
+e. Incorrect! This contains the wrong region! This would be based in Sydney.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 34 : You are hosting a static website in an S3 bucket which uses Java script to reference assets in another S3 bucket. For some reason however these assets are not displaying when users browse to the site. What could be the problem?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Amazon S3 does not support Javascript
+b. You cannot use one S3 bucket to reference another S3 bucket.
+c. You haven't enabled Cross Origin Resource Sharing (CORS) on the bucket where the assets are stored.
+d. You need to open port 80 on the appropriate security group in which the S3 bucket is located.
+
+
+Tips:
+a. Incorrect. 
+b. Incorrect. 
+c. Correct.
+d. Incorrect.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 35 : What is the HTTP code you would see if once you successfully place a file in an S3 bucket?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 404
+b. 200
+c. 524
+d. 312
+
+
+Tips:
+a. Incorrect.
+b. Correct.
+c. Incorrect.
+d. Incorrect
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 36 : S3 provides unlimited storage.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 37 : What is the maximum file size that can be stored on S3?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 1Tb
+b. 2Tb
+c. 3Tb
+d. 4Tb
+e. 5Tb
+
+
+Tips:
+a. Incorrect. The correct answer is 5Tb.
+b. Incorrect. The correct answer is 5Tb.
+c. Incorrect. The correct answer is 5Tb.
+d. Incorrect. The correct answer is 5Tb.
+e. Correct.
+Correct answer is e
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 38 : What is the largest size file you can transfer to S3 using a PUT operation?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 100Mb
+b. 1Gb
+c. 5Gb
+d. 1Tb
+e. 5Tb
+
+
+Tips:
+a. Incorrect. The correct answer is 5Gb. After that you must use a multipart upload. This can be an exam question. Please remember this before going in to your exam. Correct! http://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+b. Incorrect. The correct answer is 5Gb. After that you must use a multipart upload. This can be an exam question. Please remember this before going in to your exam. Correct! http://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+c. Correct! http://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+d. Incorrect. The correct answer is 5Gb. After that you must use a multipart upload. This can be an exam question. Please remember this before going in to your exam. Correct! http://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+e. Incorrect. The correct answer is 5Gb. After that you must use a multipart upload. This can be an exam question. Please remember this before going in to your exam. Correct! http://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 39 : If you want to enable a user to download your private data directly from S3, you can insert a pre-signed URL into a web page before giving it to your user.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 40 : When you first create an S3 bucket, this bucket is publicly accessible by default.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 41 : DynamoDB is a No-SQL database provided by AWS.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 42 : You have a motion sensor which writes 600 items of data every minute. Each item consists of 5kb. Your application uses eventually consistent reads. What should you set the read throughput to?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 20
+b. 10
+c. 5
+d. 30
+
+
+Tips:
+a. Incorrect. 600 / 60 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are EVENTUALLY consistent, 20 / 2 = 10.
+b. Correct! 600 / 60 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are EVENTUALLY consistent, 20 / 2 = 10.
+c. Incorrect. 600 / 60 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are EVENTUALLY consistent, 20 / 2 = 10.
+d. Incorrect. 600 / 60 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are EVENTUALLY consistent, 20 / 2 = 10.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 43 : A scan is more efficient than a query in terms of performance.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 44 : What does the error “ProvisionedThroughputExceededException” mean in DynamoDB?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. The DynamoDB table has exceeded the allocated space.
+b. You exceeded your maximum allowed provisioned throughput for a table or for one or more global secondary indexes. 
+c. There is no such error message. The correct error message would be "ProvisionedThroughputFailureException"
+d. The DynamoDB table is unavailable. 
+
+
+Tips:
+a. Incorrect.
+b. Correct.
+c. Incorrect.
+d. Incorrect.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 45 : You have a motion sensor which writes 600 items of data every minute. Each item consists of 5kb. What should you set the write throughput to?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 10
+b. 20
+c. 40
+d. 50
+e. 100
+
+
+Tips:
+a. Incorrect. 600 / 60 = 10 items per second. You are using 5kb per write and writes are measured in 1kb per write. This means that you need 5 writes per item, 5 x 10 = 50 writes per second.
+b. Incorrect. 600 / 60 = 10 items per second. You are using 5kb per write and writes are measured in 1kb per write. This means that you need 5 writes per item, 5 x 10 = 50 writes per second.
+c. Incorrect. 600 / 60 = 10 items per second. You are using 5kb per write and writes are measured in 1kb per write. This means that you need 5 writes per item, 5 x 10 = 50 writes per second.
+d. Correct. 600 / 60 = 10 items per second. You are using 5kb per write and writes are measured in 1kb per write. This means that you need 5 writes per item, 5 x 10 = 50 writes per second.
+e. Incorrect. 600 / 60 = 10 items per second. You are using 5kb per write and writes are measured in 1kb per write. This means that you need 5 writes per item, 5 x 10 = 50 writes per second.
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 46 : What is the API call to retrieve multiple items from a DynamoDB table?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. GetItems
+b. BatchGetItems
+c. BatchGet
+d. BatchGetItem
+
+
+Tips:
+a. Incorrect, the correct answer is BatchGetItem
+b. Incorrect, the correct answer is BatchGetItem
+c. Incorrect, the correct answer is BatchGetItem
+d. Correct!
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 47 : You have a motion sensor which writes 600 items of data every minute. Each item consists of 5kb. Your application uses strongly consistent reads. What should you set the read throughput to?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 5
+b. 10
+c. 20
+d. 40
+
+
+Tips:
+a. Incorrect. 600 / 60 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are Strongly consistent, you do not need to divide by 2. So the answer  is 20.
+b. Incorrect. 600 / 60 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are Strongly consistent, you do not need to divide by 2. So the answer  is 20.
+c. Correct! 600 / 60 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are Strongly consistent, you do not need to divide by 2. So the answer  is 20.
+d. Incorrect. 600 / 60 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are Strongly consistent, you do not need to divide by 2. So the answer  is 20.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 48 : Using the AWS portal, you are trying to Scale DynamoDB past its preconfigured maximums. Which service can you increase by raising a ticket to AWS support?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Local Secondary Indexes
+b. Global Secondary Indexes
+c. Provisioned throughput limits
+d. Item Sizes
+
+
+Tips:
+a. Incorrect. These are fixed at 5 per table. http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html
+b. Incorrect. These are fixed at 5 per table. http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html
+c. Correct! These can be scaled by speaking with AWS support. http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html
+d. Incorrect. http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Limits.html
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 49 : You have an application that needs to read 25 items of 13kb in size per second. Your application uses eventually consistent reads. What should you set the read throughput to?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 25
+b. 50
+c. 100
+d. 10
+
+
+Tips:
+a. Incorrect. Your application reads 13kb per item. Round up to the nearest 4kb chunk = 16kb. 16kb / 4kb = 4 reads per item. You have 25 items so 25 x 4 = 100. Your application requires eventually consistent reads which means you divide by 2. 100/2 = 50.
+b. Correct. Your application reads 13kb per item. Round up to the nearest 4kb chunk = 16kb. 16kb / 4kb = 4 reads per item. You have 25 items so 25 x 4 = 100. Your application requires eventually consistent reads which means you divide by 2. 100/2 = 50.
+c. Incorrect. Your application reads 13kb per item. Round up to the nearest 4kb chunk = 16kb. 16kb / 4kb = 4 reads per item. You have 25 items so 25 x 4 = 100. Your application requires eventually consistent reads which means you divide by 2. 100/2 = 50.
+d. Incorrect. Your application reads 13kb per item. Round up to the nearest 4kb chunk = 16kb. 16kb / 4kb = 4 reads per item. You have 25 items so 25 x 4 = 100. Your application requires eventually consistent reads which means you divide by 2. 100/2 = 50.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 50 : You have an application that needs to read 25 items of 13kb in size per second. Your application uses strongly consistent reads. What should you set the read throughput to?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 100
+b. 50
+c. 25
+d. 10
+
+
+Tips:
+a. Correct. Your application reads 13kb per item. Round up to the nearest 4kb chunk = 16kb. 16kb / 4kb = 4 reads per item. You have 25 items so 25 x 4 = 100. Your application requires strongly consistent reads which means you do not need to divide by 2. Answer = 100
+b. Incorrect. Your application reads 13kb per item. Round up to the nearest 4kb chunk = 16kb. 16kb / 4kb = 4 reads per item. You have 25 items so 25 x 4 = 100. Your application requires strongly consistent reads which means you do not need to divide by 2. Answer = 100
+c. Incorrect. Your application reads 13kb per item. Round up to the nearest 4kb chunk = 16kb. 16kb / 4kb = 4 reads per item. You have 25 items so 25 x 4 = 100. Your application requires strongly consistent reads which means you do not need to divide by 2. Answer = 100
+d. Incorrect. Your application reads 13kb per item. Round up to the nearest 4kb chunk = 16kb. 16kb / 4kb = 4 reads per item. You have 25 items so 25 x 4 = 100. Your application requires strongly consistent reads which means you do not need to divide by 2. Answer = 100
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 51 : SQS was the first service on the AWS platform?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 52 : How large can an SQS message be?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 64Kb
+b. 128Kb
+c. 256Kb
+d. 512Kb
+
+
+Tips:
+a. Incorrect. The correct answer is 256Kb.
+b. Incorrect. The correct answer is 256Kb.
+c. Correct.
+d. Incorrect. The correct answer is 256Kb.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 53 : What is the default visibility time out setting?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 1 hour
+b. 1 day
+c. 1 year
+d. 1 month
+e. 30 seconds
+
+
+Tips:
+a. Incorrect! The correct answer is 30 seconds.
+b. Incorrect! The correct answer is 30 seconds.
+c. Incorrect! The correct answer is 30 seconds.
+d. Incorrect! The correct answer is 30 seconds.
+e. Correct
+Correct answer is e
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 54 : An SQS message can be delivered multiple times.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 55 : You are designing a new application which involves processing payments and delivering promotional emails to customers. You plan to use SQS to help facilitate this. You need to ensure that the payment process takes priority over the creation and delivery of emails. What is the best way to achieve this.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Use 1 SQS queue for the platform. Use the SetPriority API call to ensure that all payment SQS messages take priority over the promotional email messages.
+b. Use 2 SQS queues for the platform. Have the EC2 fleet poll the payment SQS queue first. If this queue is empty, then poll the promotional emails queue.
+c. Use 1 SQS queue for the platform. Use the HighPriority API call to ensure that all payment SQS messages take priority over the promotional email messages.
+d. Use 2 SQS queues for the platform. Have the EC2 fleet poll the promotional emails SQS queue first. If this queue is empty, then poll the payment emails queue.
+
+
+Tips:
+a. Incorrect. If you need function to take priority over another, you will need to use two queues. Remember that in SQS you cannot set any kind of priority for your messages.
+b. Correct!
+c. Incorrect. If you need function to take priority over another, you will need to use two queues. Remember that in SQS you cannot set any kind of priority for your messages.
+d. Incorrect. You should use 2 queues and have the payment queue be polled first, this is because it has priority over the promotional email queue.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 56 : Your EC2 instances download jobs from the SQS queue, however they are taking too long to process them. What API call can you use to extend the length of time to process the jobs?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. AlterMessageTime
+b. SetMessageVisibility
+c. ChangeMessageVisibility 
+d. ExtendMessageTime
+
+
+Tips:
+a. Incorrect. The correct answer is ChangeMessageVisibility.
+b. Incorrect. The correct answer is ChangeMessageVisibility.
+c. Correct.
+d. Incorrect. The correct answer is ChangeMessageVisibility.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 57 : What is the default visibility time out?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 1 year
+b. 15 minutes
+c. 1 minute
+d. 30 seconds
+e. 10 seconds
+
+
+Tips:
+a. Incorrect. The correct answer is 30 seconds.
+b. Incorrect. The correct answer is 30 seconds.
+c. Incorrect. The correct answer is 30 seconds.
+d. Correct!
+e. Incorrect. The correct answer is 30 seconds.
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 58 : You have a fleet of EC2 instances that are constantly polling empty SQS queues which is burning CPU compute cycles and costing your company money. What should you do?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Enable SQS Long Polling.
+b. Delete the entire EC2 fleet so that they no longer poll the queue.
+c. Enable SQS Short Polling.
+d. Consider using Elasticache to cache the messages, rather than SQS.
+
+
+Tips:
+a. Correct
+b. Incorrect. This would save you money, however your application would stop working!
+c. Incorrect.
+d. Incorrect.
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 59 : What is the maximum long poll time out?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 5 seconds
+b. 5 minutes
+c. 50 seconds
+d. 1 hour
+e. 20 seconds
+
+
+Tips:
+a. Incorrect. The correct answer is 20 seconds.
+b. Incorrect. The correct answer is 20 seconds.
+c. Incorrect. The correct answer is 20 seconds.
+d. Incorrect. The correct answer is 20 seconds.
+e. Correct.
+Correct answer is e
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 60 : What amazon service can you use in conjunction with SQS to "fan out" SQS messages to multiple queues.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Elasticache
+b. SWF
+c. SNS
+d. SES
+
+
+Tips:
+a. Incorrect. The correct answer is SNS!
+b. Incorrect. The correct answer is SNS!
+c. Correct!
+d. Incorrect. The correct answer is SNS!
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 61 : SNS is pull based rather than push based?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 62 : Which of these is a protocol NOT supported by SNS;
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. HTTP
+b. HTTPS
+c. Email
+d. Email-JSON
+e. FTP
+f. SQS
+N/A. Application
+
+
+Tips:
+a. Incorrect, this protocol is supported by SNS. The protocol not supported is FTP.
+b. Incorrect, this protocol is supported by SNS. The protocol not supported is FTP.
+c. Incorrect, this protocol is supported by SNS. The protocol not supported is FTP.
+d. Incorrect, this protocol is supported by SNS. The protocol not supported is FTP.
+e. Correct!
+f. Incorrect, this protocol is supported by SNS. The protocol not supported is FTP.
+N/A. 
+Correct answer is e
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 63 : Messages cannot be customised for each protocol used in SNS?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 64 : You have a list of subscribers email addresses that you need to push emails out to on a periodic basis. What do you subscribe them to?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. A Message
+b. A Subject
+c. A Subreddit
+d. A Topic
+
+
+Tips:
+a. Incorrect. The correct answer is topic.
+b. Incorrect. The correct answer is topic.
+c. Incorrect. The correct answer is topic.
+d. Correct.
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 65 : You can use SNS in conjunction with SQS to fan a single message out to multiple SQS queues.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 66 : SWF consists of a domain, workers and deciders?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 67 : Maintaining your application’s execution state (e.g. which steps have completed, which ones are running, etc.) is a perfect use case for SWF.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 68 : Amazon SWF is useful for automating workflows that include long-running human tasks (e.g. approvals, reviews, investigations, etc.) Amazon SWF reliably tracks the status of processing steps that run up to several days or months.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 69 : In Amazon SWF what is a worker?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Workers are EC2 instances which can create S3 buckets and process SQS messages.
+b. Workers are programs that interact with Amazon SWF to get tasks, process received tasks, and return the results.
+c. Workers are the people in the warehouse processing orders for Amazon
+d. Workers are a component of IIS which run on windows platform under the w3wp.exe process.
+
+
+Tips:
+a. Incorrect. Workers are programs that interact with Amazon SWF to get tasks, process received tasks, and return the results.
+b. Correct!
+c. Incorrect. Workers are programs that interact with Amazon SWF to get tasks, process received tasks, and return the results.
+d. Incorrect. Workers are programs that interact with Amazon SWF to get tasks, process received tasks, and return the results.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 70 : In Amazon SWF what is a decider.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. The decider is an EC2 instance which monitors SWF and decides whether to delete a message in SWF or not.
+b. The decider is a systems administrator who must decided on how an SWF is designed.
+c. The decider is a program that controls the coordination of tasks, i.e. their ordering, concurrency, and scheduling according to the application logic.
+d. The decider is a person in the Amazon warehouse who must decide on what products to deliver.
+
+
+Tips:
+a. Incorrect. The correct answer is The decider is a program that controls the coordination of tasks, i.e. their ordering, concurrency, and scheduling according to the application logic.
+b. Incorrect. The correct answer is The decider is a program that controls the coordination of tasks, i.e. their ordering, concurrency, and scheduling according to the application logic.
+c. Correct.
+d. Incorrect. The correct answer is The decider is a program that controls the coordination of tasks, i.e. their ordering, concurrency, and scheduling according to the application logic.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 71 : The default scripting language for CloudFormation is
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. JSON
+b. Ruby
+c. Python
+d. PHP
+
+
+Tips:
+a. Correct
+b. Incorrect the correct answer is JSON
+c. Incorrect the correct answer is JSON
+d. Incorrect the correct answer is JSON
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 72 : Cloud Formation itself is free, however the resources it provisions will be charged at the usual rates.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 73 : What happens if Cloud Formation encounters an error by default?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. It will stop, however the resources already provisioned will remain.
+b. It will continue going and tell you what resources could not be provisioned.
+c. It will terminate and rollback all resources created on failure.
+d. It will log you out of the AWS platform. 
+
+
+Tips:
+a. Incorrect. The correct answer is it will terminate and rollback all resources created on failure.
+b. Incorrect. The correct answer is it will terminate and rollback all resources created on failure.
+c. Correct.
+d. Incorrect. The correct answer is it will terminate and rollback all resources created on failure.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 74 : You are creating a virtual data centre using cloud formation and you need to output the DNS name of your load balancer. What command would you use to achieve this?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. FN::GetAtt
+b. FN::PostAtt
+c. LS::GetAtt
+d. LS:ReceiveAtt
+
+
+Tips:
+a. Correct.
+b. Incorrect. The correct answer is FN::GetAtt.
+c. Incorrect. The correct answer is FN::GetAtt.
+d. Incorrect. The correct answer is FN::GetAtt.
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 75 : What language are cloud formation templates written in?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. PHP
+b. Ruby
+c. JSON
+d. Python
+
+
+Tips:
+a. Incorrect, the correct answer is JSON.
+b. Incorrect, the correct answer is JSON.
+c. Correct.
+d. Incorrect, the correct answer is JSON.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 76 : Elastic Beanstalk is object based storage.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 77 : What languages and development stacks is NOT supported by AWS Elastic Beanstalk?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Apache Tomcat for Java applications
+b. Apache HTTP Server for PHP applications
+c. Apache HTTP Server for Python applications
+d. Nginx or Apache HTTP Server for Node.js applications
+e. Passenger for Ruby applications
+f. Jetty for Jbos applications
+
+
+Tips:
+a. Incorrect.
+b. Incorrect.
+c. Incorrect.
+d. Incorrect.
+e. Incorrect.
+f. Correct.
+Correct answer is f
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 78 : Unlike Cloud Formation, Elastic Beanstalk itself is not free free AND you must also pay for the resources it provisions.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 79 : You are required to patch OS and Applications in RDS?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 80 : In the shared responsibility model, what is AWS's responsibility?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Restricting access to the data centres, proper destruction of decommissioned disks, managing security groups for users.
+b. Managing security groups for users, Managing OS Level Patches.
+c. Creating IAM roles and managing this for AWS users.
+d. Restricting access to the data centres, proper destruction of decommissioned disks, patching of firmware for the hardware on which your AWS resources reside.
+
+
+Tips:
+a. Incorrect. You are responsible for managing security groups.
+b. Incorrect, you are responsible for this.
+c. Incorrect, you are responsible for this.
+d. Correct.
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 81 : VPC stands for Virtual Private Cloud
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 82 : Security groups act like a firewall at the instance level whereas ___ are an additional layer of security that act at the subnet level
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Network ACLs
+b. DB Security Groups
+c. VPC Security Groups
+d. Route Tables
+
+
+Tips:
+a. Correct
+b. Incorrect the correct answer is "Network ACL's"
+c. Incorrect the correct answer is "Network ACL's"
+d. Incorrect the correct answer is "Network ACL's"
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 83 : Select the incorrect statement;
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. In Amazon VPC, an instance retains its private IP
+b. It is possible to have private subnets in VPC
+c. A subnet can be associated with multiple Access Control Lists
+d. You may only have 1 internet gateway per VPC
+
+
+Tips:
+a. Incorrect, this is a correct statement
+b. Incorrect, this is a correct statement
+c. Correct, this is an incorrect statement, a subnet can only be associated with one Access Control List.
+d. Incorrect, this is a correct statement
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 84 : How many VPC's am I allowed in each AWS Region by default?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 1
+b. 2
+c. 3
+d. 4
+e. 5
+
+
+Tips:
+a. Incorrect, the correct answer is 5.
+b. Incorrect, the correct answer is 5.
+c. Incorrect, the correct answer is 5.
+d. Incorrect, the correct answer is 5.
+e. Correct!
+Correct answer is e
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 85 : How many internet gateways can I attach to my custom VPC
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 1
+b. 2
+c. 3
+d. 4
+e. 5
+
+
+Tips:
+a. Correct!
+b. Incorrect. The correct answer is 1.
+c. Incorrect. The correct answer is 1.
+d. Incorrect. The correct answer is 1.
+e. Incorrect. The correct answer is 1.
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 86 : True or False - Amazon S3 buckets in all Regions provide read-after-write consistency for PUTS of new objects and eventual consistency for overwrite PUTS and DELETES.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Tips:
+a. https://aws.amazon.com/s3/faqs/
+b. https://aws.amazon.com/s3/faqs/
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 87 : In Identity Access Management, using SAML (Security Assertion Markup Language 2.0) you can give your federated users single sign-on (SSO) access to the AWS Management Console.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 88 : You can have 1 subnet stretched across multiple availability zones.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 89 : When you create new subnets within a custom VPC, by default they can communicate with each other, across availability zones.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 90 : It is possible to transfer a reserved instance from one Availability Zone to another.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 91 : You have an EC2 instance which needs to find out both its private IP address and its public IP address. To do this you need to;
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Run IFCONFIG (Windows) or IFCONFIG (Linux)
+b. Retrieve the instance Metadata from http://169.254.169.254/latest/meta-data/ 
+c. Retrieve the instance Userdata from http://169.254.169.254/latest/meta-data/
+d. Use the following command; AWS EC2 displayIP
+
+
+Tips:
+a. Incorrect. The correct answer is to Retrieve the instance Metadata from http://169.254.169.254/latest/meta-data/ 
+b. Correct
+c. Incorrect. The correct answer is to Retrieve the instance Metadata from http://169.254.169.254/latest/meta-data/ 
+d. Incorrect. The correct answer is to Retrieve the instance Metadata from http://169.254.169.254/latest/meta-data/ 
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 92 : To retrieve instance metadata or userdata you will need to use the following IP Address;
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. http://127.0.0.1
+b. http://192.168.0.254
+c. http://10.0.0.1
+d. http://169.254.169.254
+
+
+Tips:
+a. Incorrect, the correct answer is http://169.254.169.254
+b. Incorrect, the correct answer is http://169.254.169.254
+c. Incorrect, the correct answer is http://169.254.169.254
+d. Correct
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 93 : Amazon S3 buckets in all regions provide read-after-write consistency for PUTS of new objects.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Tips:
+a. 
+b. 
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 94 : Amazon S3 buckets in all regions do not provide eventual consistency for overwrite PUTS and DELETES.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Tips:
+a. 
+b. 
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 95 : Amazon S3 provides;
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Unlimited File Size for Objects
+b. Unlimited Storage
+c. A great place to run a No SQL database from
+d. The ability to act as a web server for dynamic content (i.e. can query a database)
+
+
+Tips:
+a. Incorrect.
+b. Correct
+c. Incorrect.
+d. Incorrect.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 96 : In order to enable encryption at rest using EC2 and Elastic Block Store you need to
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Configure encryption when creating the EBS volume
+b. Configure encryption using the appropriate Operating Systems file system
+c. Configure encryption using X.509 certificates
+d. Mount the EBS volume in to S3 and then encrypt the bucket using a bucket policy. 
+
+
+Tips:
+a. Correct - http://aws.amazon.com/about-aws/whats-new/2014/05/21/Amazon-EBS-encryption-now-available/
+b. Incorrect, this used to be the case, however as of June 2014 you can now encrypt the EBS volume upon creation. http://aws.amazon.com/about-aws/whats-new/2014/05/21/Amazon-EBS-encryption-now-available/
+c. Incorrect
+d. Incorrect
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 97 : You can select a specific Availability Zone in which to place your DynamoDB Table
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 98 : You run a website which hosts videos and you have two types of members, premium fee paying members and free members. All videos uploaded by both your premium members and free members are processed by a fleet of EC2 instances which will poll SQS as videos are uploaded. However you need to ensure that your premium fee paying members videos have a higher priority than your free members. How do you design SQS?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. SQS allows you to set priorities on individual items within the queue, so simply set the fee paying members at a higher priority than your free members.
+b. Create two SQS queues, one for premium members and one for free members. Program your EC2 fleet to poll the premium queue first and if empty, to then poll your free members SQS queue.
+c. SQS would not be suitable for this scenario. It would be much better to use SNS to encode the videos. 
+
+
+Tips:
+a. Incorrect, SQS does not set priorities on individual items. It would be best to create two queues.
+b. Correct
+c. Incorrect. It would be best to create two queues.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 99 : You can have multiple SSL certificates (for multiple domain names) on a single Elastic Load Balancer.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 100 : What is the default region for all SDKs?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. US-WEST-1
+b. US-EAST-1
+c. EU-WEST-1
+d. EU-CENTRAL-1
+
+
+Tips:
+a. Incorrect. The correct answer is US-EAST-1.
+b. Correct.
+c. Incorrect. The correct answer is US-EAST-1.
+d. Incorrect. The correct answer is US-EAST-1.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 101 : Which of the following languages is NOT supported by the AWS SDK?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Python
+b. Java
+c. PHP
+d. Node.JS
+e. C++
+f. Ruby
+
+
+Tips:
+a. Incorrect. The language not supported is C++
+b. Incorrect. The language not supported is C++
+c. Incorrect. The language not supported is C++
+d. Incorrect. The language not supported is C++
+e. Correct.
+f. Incorrect. The language not supported is C++
+Correct answer is e
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 102 : Which of these AWS services do not use key value pairs?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. DynamoDB
+b. SNS
+c. SWF
+d. Route53
+
+
+Tips:
+a. Incorrect.
+b. Incorrect.
+c. Incorrect.
+d. Correct.
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 103 : After successfully uploading a file to S3, what HTTP response code should you expect to see?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. HTTP 200
+b. HTTP 300
+c. HTTP 400
+d. HTTP 500
+
+
+Tips:
+a. Correct
+b. Incorrect. The correct answer is HTTP 200.
+c. Incorrect. The correct answer is HTTP 200.
+d. Incorrect. The correct answer is HTTP 200.
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 104 : What is the default encryption used on S3?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Advanced Encryption Standard (AES) 256
+b. Camellia
+c. Data Encryption Standard (DES) 256
+d. Advanced Encryption Standard (AES) 128
+
+
+Tips:
+a. Correct.
+b. Incorrect. The correct answer is Advanced Encryption Standard (AES) 256
+c. Incorrect. The correct answer is Advanced Encryption Standard (AES) 256
+d. Incorrect. The correct answer is Advanced Encryption Standard (AES) 256
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 105 : In the shared responsibility model, what is AWS's responsibility?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Restricting access to the data centres, proper destruction of decommissioned disks, managing security groups for users.
+b. Managing security groups for users, Managing OS Level Patches.
+c. Creating IAM roles and managing this for AWS users.
+d. Restricting access to the data centres, proper destruction of decommissioned disks, patching of firmware for the hardware on which your AWS resources reside.
+
+
+Tips:
+a. Incorrect. You are responsible for managing security groups.
+b. Incorrect, you are responsible for this.
+c. Incorrect, you are responsible for this.
+d. Correct
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 106 : If you make an AMI public, this AMI is immediately available across all regions, by default.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 107 : With EC2 you can have 2 types of storage, EBS storage or Instance Store. EBS is persistent and if an EC2 instance is stopped with an EBS volume attached, there will be no data lost. Instance Store is ephemeral and if the EC2 instance is stopped, all data will be lost.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 108 : You are designing an application which needs to locate the public IP address on the EC2 instance on which it is stored. What do you do?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Get the application to run IFCONFIG to get the public IP address. 
+b. Get the instance's USER data by visiting http://169.254.169.254/latest/user-data/
+c. Get the application to run IPCONFIG to get the public IP address. 
+d. Get the instance's META data by visiting http://169.254.169.254/latest/meta-data/
+
+
+Tips:
+a. Incorrect. You need to get the instances meta-data by visiting http://169.254.169.254/latest/meta-data/
+b. Incorrect. You need to get the instances meta-data by visiting http://169.254.169.254/latest/meta-data/
+c. Incorrect. You need to get the instances meta-data by visiting http://169.254.169.254/latest/meta-data/
+d. Correct.
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 109 : How many internet gateways can I attach to my custom VPC
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 3
+b. 2
+c. 5
+d. 1
+e. 4
+
+
+Tips:
+a. Incorrect. The correct answer is 1.
+b. Incorrect. The correct answer is 1.
+c. Incorrect. The correct answer is 1.
+d. Correct!
+e. Incorrect. The correct answer is 1.
+Correct answer is d
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 110 : You have 2 EC2 instances which sit in a custom VPC in a public subnet. These instances are able to receive internet traffic. You add a 3rd instance to the subnet, but it cannot access the internet. What should you do?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Move the EC2 instance in to another subnet.
+b. Add an elastic IP address to the new instance. 
+c. Enable port 80 on the security group
+d. Check your ACL permissions
+
+
+Tips:
+a. Incorrect.
+b. Correct.
+c. Incorrect.
+d. Incorrect.
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 111 : You have added a NAT EC2 instance to your VPC, but your EC2 instances in the private subnet still cannot access the internet. What should you do with the NAT?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Disable source/destination checks on the NAT instance
+b. Move the NAT to another Subnet
+c. Provision a second NAT and enable failover between the 
+d. Enable source/destination checks on the NAT instance
+
+
+Tips:
+a. Correct
+b. Incorrect
+c. Incorrect
+d. Incorrect
+Correct answer is a
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 112 : You create a static hosting website in a bucket called "acloudguru" in Sydney using S3. What would the new URL End Point be?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. http://www.acloudguru.s3-website-ap-southeast-2.amazonaws.com
+b. https://s3-ap-southeast-2.amazonaws.com/acloudguru/
+c. http://acloudguru.s3-website-ap-southeast-2.amazonaws.com
+d. http://acloudguru.s3-website-ap-eu-central-1.amazonaws.com
+e. http://acloudguru.s3-website-ap-sa-east-1.amazonaws.com
+
+
+Tips:
+a. Incorrect, there would be no "www" in the domain.
+b. Incorrect, this is a valid link to the bucket, but would not be the URL end point. Remember that an endpoint will always contain the phrase "s3-website" followed by the region name.
+c. Correct!
+d. Incorrect! This contains the wrong region! This would be based in Frankfurt.
+e. Incorrect! This contains the wrong region! This would be based in Sao Paulo.
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 113 : You are hosting a static website in an S3 bucket which uses Java script to reference assets in another S3 bucket. For some reason however these assets are not displaying when users browse to the site. What could be the problem?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. Amazon S3 does not support Javascript
+b. You cannot use one S3 bucket to reference another S3 bucket.
+c. You haven't enabled Cross Origin Resource Sharing (CORS) on the bucket where the assets are stored.
+d. You need to open port 80 on the appropriate security group in which the S3 bucket is located.
+
+
+Tips:
+a. Incorrect. 
+b. Incorrect. 
+c. Correct.
+d. Incorrect. 
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 114 : There is a hard limit on how much data you can store on S3.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. True
+b. False
+
+
+Correct answer is b
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 115 : What is the largest size file you can transfer to S3 using a PUT operation?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 100Mb
+b. 1Gb
+c. 5Gb
+d. 1Tb
+e. 5Tb
+
+
+Tips:
+a. Incorrect. The correct answer is 5Gb. After that you must use a multipart upload. This can be an exam question. Please remember this before going in to your exam. Correct! http://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+b. Incorrect. The correct answer is 5Gb. After that you must use a multipart upload. This can be an exam question. Please remember this before going in to your exam. Correct! http://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+c. Correct! http://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+d. Incorrect. The correct answer is 5Gb. After that you must use a multipart upload. This can be an exam question. Please remember this before going in to your exam. Correct! http://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+e. Incorrect. The correct answer is 5Gb. After that you must use a multipart upload. This can be an exam question. Please remember this before going in to your exam. Correct! http://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+Correct answer is c
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Question 116 : You have a motion sensor which writes 300 items of data every 30 seconds. Each item consists of 5kb. Your application uses eventually consistent reads. What should you set the read throughput to?
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Please select:
+a. 20
+b. 10
+c. 5
+d. 30
+
+
+Tips:
+a. Incorrect. 300 / 30 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are EVENTUALLY consistent, 20 / 2 = 10.
+b. Correct! 300 / 30 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are EVENTUALLY consistent, 20 / 2 = 10.
+c. Incorrect. 300 / 30 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are EVENTUALLY consistent, 20 / 2 = 10.
+d. Incorrect. 300 / 30 = 10 items per second. 5kb rounded to nearest 4kb chunk is 8kb. 8 / 4 = 2. This means you need 2 reads per item. 2 x 10 = 20 reads per second. As the reads are EVENTUALLY consistent, 20 / 2 = 10.
+Correct answer is b
+dick@myUbuntu:~$ 
